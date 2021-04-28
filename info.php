@@ -1,11 +1,2 @@
 Jai shri ram
-<html>
-<body>
-
-<form action="welcome.php" method="post">
-Name: <input type="text" name="name"><br>
-<input type="submit">
-</form>
-
-</body>
-</html>
+ram ram g
